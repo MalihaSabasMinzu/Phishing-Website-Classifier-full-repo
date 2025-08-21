@@ -185,9 +185,6 @@ This project uses:
 - **React Hooks** for state management
 - **Modern JavaScript (ES6+)** features
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🐛 Troubleshooting
 

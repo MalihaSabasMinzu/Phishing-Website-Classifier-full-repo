@@ -1,0 +1,5 @@
+start command: 
+source venv/bin/activate
+python /workspaces/phishing-website-detector-backend/src/api.py
+
+npm start
